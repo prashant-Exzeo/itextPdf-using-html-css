@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html lang="">
+	
+<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content="" />
+		<meta name="author" content="" />
+		<title>Created by BCL easyConverter SDK 3 (HTML Version)</title>
+		<style type="text/css">/*<![CDATA[*/
+			body {margin-top: 0px;margin-left: 0px;}
+			#page_1 {position:relative; overflow: hidden;margin: 24px 0px 29px 43px;padding: 0px;border: none;width: 773px;}
+			#page_1 #id_1 {border:none;margin: 84px 0px 0px 0px;padding: 0px;border:none;width: 773px;overflow: hidden;}
+			#page_1 #id_2 {border:none;margin: 27px 0px 0px 28px;padding: 0px;border:none;width: 555px;overflow: hidden;}
+			#page_1 #dimg1 {position:absolute;top:0px;left:0px;z-index:-1;width:712px;height:970px;}
+			#page_1 #dimg1 #img1 {width:712px;height:970px;}
+			.dclr {clear:both;float:none;height:1px;margin:0px;padding:0px;overflow:hidden;}
+			.ft0{font: bold 16px 'Helvetica';line-height: 19px;}
+			.ft1{font: bold 11px 'Helvetica';line-height: 14px;}
+			.ft2{font: 1px 'Helvetica';line-height: 1px;}
+			.ft3{font: 16px 'Helvetica';line-height: 18px;}
+			.ft4{font: bold 11px 'Helvetica';line-height: 13px;}
+			.ft5{font: 1px 'Helvetica';line-height: 8px;}
+			.ft6{font: 1px 'Helvetica';line-height: 5px;}
+			.ft7{font: 11px 'Helvetica';line-height: 14px;}
+			.ft8{font: 1px 'Helvetica';line-height: 12px;}
+			.ft9{font: 11px 'Helvetica';line-height: 12px;}
+			.ft10{font: 1px 'Helvetica';line-height: 10px;}
+			.ft11{font: 1px 'Helvetica';line-height: 13px;}
+			.ft12{font: 11px 'Helvetica';line-height: 13px;}
+			.ft13{font: 1px 'Helvetica';line-height: 3px;}
+			.ft14{font: bold 10px 'Helvetica';line-height: 12px;}
+			.ft15{font: 10px 'Helvetica';line-height: 13px;}
+			.ft16{font: 1px 'Helvetica';line-height: 6px;}
+			.ft17{font: 1px 'Helvetica';line-height: 4px;}
+			.p0{text-align: left;padding-left: 100px;margin-top: 0px;margin-bottom: 0px;}
+			.p1{text-align: left;padding-left: 314px;margin-top: 0px;margin-bottom: 0px;}
+			.p2{text-align: left;padding-left: 11px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p3{text-align: left;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p4{text-align: left;padding-left: 9px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p5{text-align: left;padding-left: 1px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p6{text-align: left;padding-left: 10px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p7{text-align: right;padding-right: 93px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p8{text-align: left;padding-left: 7px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p9{text-align: right;padding-right: 48px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p10{text-align: right;padding-right: 92px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p11{text-align: right;padding-right: 116px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p12{text-align: right;padding-right: 19px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p13{text-align: right;padding-right: 49px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p14{text-align: right;padding-right: 50px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p15{text-align: right;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p16{text-align: right;padding-right: 20px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p17{text-align: right;padding-right: 33px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p18{text-align: left;padding-left: 77px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p19{text-align: left;padding-left: 105px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p20{text-align: left;padding-left: 10px;padding-right: 574px;margin-top: 6px;margin-bottom: 0px;}
+			.p21{text-align: right;padding-right: 3px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p22{text-align: left;padding-left: 26px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p23{text-align: right;padding-right: 36px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p24{text-align: right;padding-right: 40px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p25{text-align: left;padding-left: 25px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p26{text-align: right;padding-right: 26px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p27{text-align: right;padding-right: 30px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p28{text-align: left;padding-left: 42px;margin-top: 0px;margin-bottom: 0px;white-space: nowrap;}
+			.p29{text-align: left;padding-left: 90px;margin-top: 2px;margin-bottom: 0px;}
+			.p30{text-align: left;padding-left: 2px;padding-right: 77px;margin-top: 4px;margin-bottom: 0px;}
+			.td0{border-left: #000000 1px solid;border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 129px;vertical-align: bottom;}
+			.td1{border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 44px;vertical-align: bottom;}
+			.td2{border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 116px;vertical-align: bottom;}
+			.td3{border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 56px;vertical-align: bottom;}
+			.td4{border-right: #000000 1px solid;border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 9px;vertical-align: bottom;}
+			.td5{border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 134px;vertical-align: bottom;}
+			.td6{border-top: #000000 1px solid;padding: 0px;margin: 0px;width: 222px;vertical-align: bottom;}
+			.td7{border-left: #000000 1px solid;padding: 0px;margin: 0px;width: 129px;vertical-align: bottom;}
+			.td8{padding: 0px;margin: 0px;width: 44px;vertical-align: bottom;}
+			.td9{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 181px;vertical-align: bottom;}
+			.td10{padding: 0px;margin: 0px;width: 134px;vertical-align: bottom;}
+			.td11{padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+			.td12{padding: 0px;margin: 0px;width: 159px;vertical-align: bottom;}
+			.td13{border-left: #000000 1px solid;padding: 0px;margin: 0px;width: 67px;vertical-align: bottom;}
+			.td14{padding: 0px;margin: 0px;width: 62px;vertical-align: bottom;}
+			.td15{padding: 0px;margin: 0px;width: 116px;vertical-align: bottom;}
+			.td16{padding: 0px;margin: 0px;width: 56px;vertical-align: bottom;}
+			.td17{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 9px;vertical-align: bottom;}
+			.td18{padding: 0px;margin: 0px;width: 86px;vertical-align: bottom;}
+			.td19{padding: 0px;margin: 0px;width: 30px;vertical-align: bottom;}
+			.td20{padding: 0px;margin: 0px;width: 222px;vertical-align: bottom;}
+			.td21{border-left: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 67px;vertical-align: bottom;}
+			.td22{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 192px;vertical-align: bottom;}
+			.td23{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 86px;vertical-align: bottom;}
+			.td24{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 9px;vertical-align: bottom;}
+			.td25{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 356px;vertical-align: bottom;}
+			.td26{padding: 0px;margin: 0px;width: 644px;vertical-align: bottom;}
+			.td27{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 62px;vertical-align: bottom;}
+			.td28{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 130px;vertical-align: bottom;}
+			.td29{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 30px;vertical-align: bottom;}
+			.td30{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 56px;vertical-align: bottom;}
+			.td31{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 10px;vertical-align: bottom;}
+			.td32{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 134px;vertical-align: bottom;}
+			.td33{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 63px;vertical-align: bottom;}
+			.td34{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 159px;vertical-align: bottom;}
+			.td35{padding: 0px;margin: 0px;width: 160px;vertical-align: bottom;}
+			.td36{padding: 0px;margin: 0px;width: 130px;vertical-align: bottom;}
+			.td37{padding: 0px;margin: 0px;width: 197px;vertical-align: bottom;}
+			.td38{border-left: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 129px;vertical-align: bottom;}
+			.td39{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 44px;vertical-align: bottom;}
+			.td40{padding: 0px;margin: 0px;width: 10px;vertical-align: bottom;}
+			.td41{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 222px;vertical-align: bottom;}
+			.td42{padding: 0px;margin: 0px;width: 356px;vertical-align: bottom;}
+			.td43{border-left: #000000 1px solid;padding: 0px;margin: 0px;width: 173px;vertical-align: bottom;}
+			.td44{padding: 0px;margin: 0px;width: 68px;vertical-align: bottom;}
+			.td45{padding: 0px;margin: 0px;width: 106px;vertical-align: bottom;}
+			.td46{padding: 0px;margin: 0px;width: 96px;vertical-align: bottom;}
+			.td47{padding: 0px;margin: 0px;width: 77px;vertical-align: bottom;}
+			.td48{padding: 0px;margin: 0px;width: 65px;vertical-align: bottom;}
+			.td49{padding: 0px;margin: 0px;width: 101px;vertical-align: bottom;}
+			.td50{padding: 0px;margin: 0px;width: 58px;vertical-align: bottom;}
+			.td51{padding: 0px;margin: 0px;width: 105px;vertical-align: bottom;}
+			.td52{padding: 0px;margin: 0px;width: 59px;vertical-align: bottom;}
+			.td53{padding: 0px;margin: 0px;width: 151px;vertical-align: bottom;}
+			.td54{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 173px;vertical-align: bottom;}
+			.td55{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 166px;vertical-align: bottom;}
+			.td56{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 163px;vertical-align: bottom;}
+			.td57{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 210px;vertical-align: bottom;}
+			.td58{padding: 0px;margin: 0px;width: 173px;vertical-align: bottom;}
+			.td59{padding: 0px;margin: 0px;width: 166px;vertical-align: bottom;}
+			.td60{padding: 0px;margin: 0px;width: 163px;vertical-align: bottom;}
+			.td61{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 209px;vertical-align: bottom;}
+			.td62{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 65px;vertical-align: bottom;}
+			.td63{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 101px;vertical-align: bottom;}
+			.td64{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 58px;vertical-align: bottom;}
+			.td65{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 105px;vertical-align: bottom;}
+			.td66{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 59px;vertical-align: bottom;}
+			.td67{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 150px;vertical-align: bottom;}
+			.td68{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 172px;vertical-align: bottom;}
+			.td69{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 100px;vertical-align: bottom;}
+			.td70{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 104px;vertical-align: bottom;}
+			.td71{border-right: #000000 1px solid;padding: 0px;margin: 0px;width: 76px;vertical-align: bottom;}
+			.td72{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 96px;vertical-align: bottom;}
+			.td73{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 76px;vertical-align: bottom;}
+			.td74{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 100px;vertical-align: bottom;}
+			.td75{border-right: #000000 1px solid;border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 104px;vertical-align: bottom;}
+			.td76{border-bottom: #000000 1px solid;padding: 0px;margin: 0px;width: 151px;vertical-align: bottom;}
+			.td77{padding: 0px;margin: 0px;width: 491px;vertical-align: bottom;}
+			.td78{padding: 0px;margin: 0px;width: 64px;vertical-align: bottom;}
+			.tr0{height: 17px;}
+			.tr1{height: 25px;}
+			.tr2{height: 13px;}
+			.tr3{height: 8px;}
+			.tr4{height: 5px;}
+			.tr5{height: 16px;}
+			.tr6{height: 28px;}
+			.tr7{height: 12px;}
+			.tr8{height: 19px;}
+			.tr9{height: 29px;}
+			.tr10{height: 10px;}
+			.tr11{height: 3px;}
+			.tr12{height: 15px;}
+			.tr13{height: 14px;}
+			.tr14{height: 18px;}
+			.tr15{height: 6px;}
+			.tr16{height: 20px;}
+			.tr17{height: 27px;}
+			.tr18{height: 4px;}
+			.tr19{height: 24px;}
+			.t0{width: 712px;margin-top: 5px;font: 11px 'Helvetica';}
+			.t1{width: 712px;margin-top: 36px;font: 11px 'Helvetica';}
+			.t2{width: 555px;font: bold 10px 'Helvetica';}
+		/*]]>*/</style>
+	</head>
+	
+<body>
+		<div id="page_1">
+			<div id="dimg1"></div>
+			<div class="dclr"></div>
+			<div id="id_1">
+				<p class="p0 ft0">Homeowners Choice Property &amp; Casualty Insurance Company</p>
+				<p class="p1 ft0">Quote</p>
+				<table style="font-family:verdana;">
+					<tbody>
+						<tr>
+							<td colspan="2" class="tr0 td0">
+								<p class="p2 ft1">Named Insured and</p>
+							</td>
+							<td class="tr0 td1">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="2" class="tr0 td2">
+								<p class="p4 ft1">Insured Location</p>
+							</td>
+							<td class="tr0 td3">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td4">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td rowspan="2" class="tr1 td5">
+								<p class="p4 ft0">Quote Number</p>
+							</td>
+							<td colspan="2" rowspan="2" class="tr1 td6">
+								<p class="p5 ft3">${quoteNumber}</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" rowspan="2" class="tr2 td7">
+								<p class="p2 ft4">Mailing Address:</p>
+							</td>
+							<td class="tr3 td8">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td colspan="4" rowspan="2" class="tr2 td9">
+								<p class="p4 ft4">Covered by this Policy:</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr4 td8">
+								<p class="p3 ft6"> </p>
+							</td>
+							<td class="tr4 td10">
+								<p class="p3 ft6"> </p>
+							</td>
+							<td class="tr4 td11">
+								<p class="p3 ft6"> </p>
+							</td>
+							<td class="tr4 td12">
+								<p class="p3 ft6"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr5 td13">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr5 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr5 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="4" class="tr5 td9">
+								<p class="p4 ft7">1050 STARKEY RD # 306</p>
+							</td>
+							<td rowspan="2" class="tr6 td10">
+								<p class="p6 ft1">Policy Type:</p>
+							</td>
+							<td rowspan="2" class="tr6 td11">
+								<p class="p6 ft7">HO3</p>
+							</td>
+							<td class="tr5 td12">
+								<p class="p3 ft2"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr7 td13">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td14">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td8">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td colspan="2" class="tr7 td15">
+								<p class="p4 ft9">LARGO, FL 33771</p>
+							</td>
+							<td class="tr7 td16">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td17">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td12">
+								<p class="p3 ft8"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr0 td13">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td18">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td10">
+								<p class="p6 ft1">Policy Effective Date:</p>
+							</td>
+							<td colspan="2" class="tr0 td20">
+								<p class="p6 ft7">Dec 18, 2014 12:01AM</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr8 td13">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr8 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr8 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="2" rowspan="2" class="tr9 td15">
+								<p class="p4 ft1">
+									County:
+									<span class="ft7">PINELLAS</span>
+								</p>
+							</td>
+							<td class="tr8 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr8 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr8 td10">
+								<p class="p6 ft1">Policy Expiration Date:</p>
+							</td>
+							<td colspan="2" class="tr8 td20">
+								<p class="p6 ft7">Dec 18, 2015 12:01AM</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr10 td13">
+								<p class="p3 ft10"> </p>
+							</td>
+							<td class="tr10 td14">
+								<p class="p3 ft10"> </p>
+							</td>
+							<td class="tr10 td8">
+								<p class="p3 ft10"> </p>
+							</td>
+							<td class="tr10 td16">
+								<p class="p3 ft10"> </p>
+							</td>
+							<td class="tr10 td17">
+								<p class="p3 ft10"> </p>
+							</td>
+							<td class="tr10 td10">
+								<p class="p3 ft10"> </p>
+							</td>
+							<td class="tr10 td11">
+								<p class="p3 ft10"> </p>
+							</td>
+							<td class="tr10 td12">
+								<p class="p3 ft10"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr3 td21">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td colspan="3" class="tr3 td22">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td colspan="2" class="tr3 td23">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td24">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td colspan="3" class="tr3 td25">
+								<p class="p3 ft5"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr2 td13">
+								<p class="p3 ft11"> </p>
+							</td>
+							<td colspan="9" class="tr2 td26">
+								<p class="p7 ft12">COVERAGE IS PROVIDED WHERE A PREMIUM OR LIMIT OF LIABILITY IS SHOWN FOR THE COVERAGE</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr11 td21">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td27">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td colspan="2" class="tr11 td28">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td29">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td30">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td31">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td32">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td33">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td34">
+								<p class="p3 ft13"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr2 td13">
+								<p class="p2 ft14">Coverages</p>
+							</td>
+							<td class="tr2 td14">
+								<p class="p3 ft11"> </p>
+							</td>
+							<td colspan="3" class="tr2 td35">
+								<p class="p3 ft4">Limit of Liability</p>
+							</td>
+							<td class="tr2 td16">
+								<p class="p3 ft11"> </p>
+							</td>
+							<td class="tr2 td17">
+								<p class="p3 ft11"> </p>
+							</td>
+							<td class="tr2 td10">
+								<p class="p8 ft4">Other Coverage</p>
+							</td>
+							<td class="tr2 td11">
+								<p class="p3 ft11"> </p>
+							</td>
+							<td class="tr2 td12">
+								<p class="p3 ft11"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr12 td13">
+								<p class="p2 ft1">Section I</p>
+							</td>
+							<td class="tr12 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td18">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td10">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td12">
+								<p class="p3 ft2"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr12 td13">
+								<p class="p6 ft7">A. Dwelling</p>
+							</td>
+							<td class="tr12 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="2" class="tr12 td36">
+								<p class="p9 ft7">$213,100</p>
+							</td>
+							<td class="tr12 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td10">
+								<p class="p4 ft7">Loss Assessment</p>
+							</td>
+							<td class="tr12 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td12">
+								<p class="p10 ft7">$2,000</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr13 td7">
+								<p class="p6 ft7">B. Other Structures</p>
+							</td>
+							<td colspan="2" class="tr13 td36">
+								<p class="p9 ft7">$21,310</p>
+							</td>
+							<td class="tr13 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td10">
+								<p class="p4 ft7">Mold - Property</p>
+							</td>
+							<td class="tr13 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td12">
+								<p class="p10 ft7">$10,000</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr13 td7">
+								<p class="p6 ft7">C. Personal Property</p>
+							</td>
+							<td colspan="2" class="tr13 td36">
+								<p class="p9 ft7">$74,590</p>
+							</td>
+							<td class="tr13 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td10">
+								<p class="p4 ft7">Mold - Liability</p>
+							</td>
+							<td class="tr13 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td12">
+								<p class="p10 ft7">$50,000</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr12 td7">
+								<p class="p6 ft7">D. Loss of Use</p>
+							</td>
+							<td colspan="2" class="tr12 td36">
+								<p class="p9 ft7">$21,310</p>
+							</td>
+							<td class="tr12 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="2" class="tr12 td37">
+								<p class="p4 ft7">Ordinance or Law Coverage</p>
+							</td>
+							<td class="tr12 td12">
+								<p class="p10 ft15">50% of Cov A</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr13 td13">
+								<p class="p6 ft1">Section II</p>
+							</td>
+							<td class="tr13 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td18">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td10">
+								<p class="p4 ft7">Flood Coverage</p>
+							</td>
+							<td class="tr13 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td12">
+								<p class="p10 ft7">No</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr12 td7">
+								<p class="p6 ft7">E. Personal Liability</p>
+							</td>
+							<td colspan="2" class="tr12 td36">
+								<p class="p9 ft7">$100,000</p>
+							</td>
+							<td class="tr12 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td10">
+								<p class="p6 ft7">Flood Building Limit</p>
+							</td>
+							<td class="tr12 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td12">
+								<p class="p10 ft7">$0</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr13 td7">
+								<p class="p6 ft7">F. Medical Payments</p>
+							</td>
+							<td class="tr13 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td18">
+								<p class="p9 ft7">$2,000</p>
+							</td>
+							<td class="tr13 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="2" class="tr13 td37">
+								<p class="p6 ft7">Flood Personal Property Limit</p>
+							</td>
+							<td class="tr13 td12">
+								<p class="p10 ft7">$0</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr3 td38">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td39">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td23">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td29">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td30">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td24">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td32">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td33">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td34">
+								<p class="p3 ft5"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr12 td7">
+								<p class="p6 ft1">Rating Information:</p>
+							</td>
+							<td class="tr12 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td18">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td10">
+								<p class="p6 ft7">Fire Units</p>
+							</td>
+							<td class="tr12 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td12">
+								<p class="p11 ft7">1</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr13 td13">
+								<p class="p6 ft7">Year Built</p>
+							</td>
+							<td class="tr13 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td18">
+								<p class="p12 ft7">1995</p>
+							</td>
+							<td class="tr13 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td10">
+								<p class="p6 ft7">Wind Exclusion</p>
+							</td>
+							<td class="tr13 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td12">
+								<p class="p11 ft7">No</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr13 td7">
+								<p class="p6 ft7">Construction</p>
+							</td>
+							<td class="tr13 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="2" class="tr13 td15">
+								<p class="p13 ft7">F</p>
+							</td>
+							<td class="tr13 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td10">
+								<p class="p6 ft7">Replacement Cost</p>
+							</td>
+							<td class="tr13 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td12">
+								<p class="p11 ft7">Yes</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr12 td13">
+								<p class="p6 ft7">Territory</p>
+							</td>
+							<td class="tr12 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td18">
+								<p class="p12 ft7">81</p>
+							</td>
+							<td class="tr12 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td10">
+								<p class="p6 ft7">Condo Owners Special</p>
+							</td>
+							<td class="tr12 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td12">
+								<p class="p11 ft7">No</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr13 td7">
+								<p class="p6 ft7">Protection Class</p>
+							</td>
+							<td class="tr13 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td18">
+								<p class="p12 ft7">2</p>
+							</td>
+							<td class="tr13 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td10">
+								<p class="p4 ft7">Property Rented</p>
+							</td>
+							<td class="tr13 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td12">
+								<p class="p11 ft7">No</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr13 td7">
+								<p class="p6 ft7">BCEG Grade</p>
+							</td>
+							<td class="tr13 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td18">
+								<p class="p12 ft7">3</p>
+							</td>
+							<td class="tr13 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td10">
+								<p class="p6 ft7">Seasonally Occupied</p>
+							</td>
+							<td class="tr13 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td12">
+								<p class="p11 ft7">No</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr12 td13">
+								<p class="p6 ft7">Sprinkler</p>
+							</td>
+							<td class="tr12 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="2" class="tr12 td15">
+								<p class="p13 ft7">C (None)</p>
+							</td>
+							<td class="tr12 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td10">
+								<p class="p6 ft7">No Prior Insurance</p>
+							</td>
+							<td class="tr12 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td12">
+								<p class="p11 ft7">No</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr13 td13">
+								<p class="p6 ft7">Fire Alarm</p>
+							</td>
+							<td class="tr13 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="2" class="tr13 td15">
+								<p class="p13 ft7">No</p>
+							</td>
+							<td class="tr13 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td10">
+								<p class="p4 ft7">Incidental Occ Main</p>
+							</td>
+							<td class="tr13 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td12">
+								<p class="p11 ft7">No</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr12 td7">
+								<p class="p6 ft7">Burglar Alarm</p>
+							</td>
+							<td class="tr12 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="2" class="tr12 td15">
+								<p class="p14 ft7">No</p>
+							</td>
+							<td class="tr12 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td10">
+								<p class="p4 ft7">Incidental Occ Other</p>
+							</td>
+							<td class="tr12 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td12">
+								<p class="p11 ft7">No</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr13 td7">
+								<p class="p6 ft7">Wind Mitigation Factor</p>
+							</td>
+							<td class="tr13 td8">
+								<p class="p15 ft7">10101</p>
+							</td>
+							<td class="tr13 td18">
+								<p class="p16 ft7">0.000</p>
+							</td>
+							<td class="tr13 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td10">
+								<p class="p6 ft7">Flood Zone</p>
+							</td>
+							<td class="tr13 td11">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td12">
+								<p class="p11 ft7">U</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr3 td38">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td39">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td23">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td29">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td30">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td31">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td class="tr3 td32">
+								<p class="p3 ft5"> </p>
+							</td>
+							<td colspan="2" class="tr3 td41">
+								<p class="p3 ft5"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr5 td7">
+								<p class="p6 ft14">Annual Policy Premium</p>
+							</td>
+							<td class="tr5 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr5 td18">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr5 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr5 td16">
+								<p class="p15 ft7">$3,000</p>
+							</td>
+							<td class="tr5 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr5 td10">
+								<p class="p4 ft1">Deductibles</p>
+							</td>
+							<td colspan="2" class="tr5 td20">
+								<p class="p3 ft7">In case of a loss, we cover only that part of</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr7 td13">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td14">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td8">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td18">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td19">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td16">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td17">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td10">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td colspan="2" class="tr7 td20">
+								<p class="p3 ft9">the loss over the deductible stated:</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr14 td13">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td18">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="3" class="tr14 td42">
+								<p class="p4 ft7">10% of Coverage A ($21,310) Sinkhole Deductible</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr12 td13">
+								<p class="p2 ft7">Policy Fees</p>
+							</td>
+							<td class="tr12 td14">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td8">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td18">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td16">
+								<p class="p15 ft7">$96</p>
+							</td>
+							<td class="tr12 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="2" class="tr12 td37">
+								<p class="p4 ft7">$2,500 All Other Perils Deductible</p>
+							</td>
+							<td class="tr12 td12">
+								<p class="p3 ft2"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr15 td13">
+								<p class="p3 ft16"> </p>
+							</td>
+							<td class="tr15 td14">
+								<p class="p3 ft16"> </p>
+							</td>
+							<td class="tr15 td8">
+								<p class="p3 ft16"> </p>
+							</td>
+							<td class="tr15 td18">
+								<p class="p3 ft16"> </p>
+							</td>
+							<td class="tr4 td29">
+								<p class="p3 ft6"> </p>
+							</td>
+							<td class="tr4 td30">
+								<p class="p3 ft6"> </p>
+							</td>
+							<td class="tr15 td17">
+								<p class="p3 ft16"> </p>
+							</td>
+							<td colspan="3" rowspan="2" class="tr16 td42">
+								<p class="p4 ft0">2% ($4,262) Hurricane Deductible</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="3" rowspan="2" class="tr17 td43">
+								<p class="p2 ft0">Total Policy Charges</p>
+							</td>
+							<td class="tr13 td18">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr13 td19">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td rowspan="2" class="tr17 td16">
+								<p class="p15 ft0">$3,096</p>
+							</td>
+							<td class="tr13 td17">
+								<p class="p3 ft2"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr2 td18">
+								<p class="p3 ft11"> </p>
+							</td>
+							<td class="tr2 td19">
+								<p class="p3 ft11"> </p>
+							</td>
+							<td class="tr2 td17">
+								<p class="p3 ft11"> </p>
+							</td>
+							<td class="tr2 td10">
+								<p class="p3 ft11"> </p>
+							</td>
+							<td class="tr2 td11">
+								<p class="p3 ft11"> </p>
+							</td>
+							<td class="tr2 td12">
+								<p class="p3 ft11"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr14 td21">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td27">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td39">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td23">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td29">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td30">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr14 td24">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="3" class="tr14 td25">
+								<p class="p3 ft2"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td rowspan="2" class="tr17 td44">
+								<p class="p6 ft1">Agent:</p>
+							</td>
+							<td colspan="2" rowspan="2" class="tr17 td45">
+								<p class="p17 ft7">ROBERT REID</p>
+							</td>
+							<td colspan="2" class="tr12 td15">
+								<p class="p18 ft1">Other:</p>
+							</td>
+							<td class="tr12 td16">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr12 td40">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td colspan="3" class="tr12 td42">
+								<p class="p19 ft1">Bill To: Policyholder</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr7 td18">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td19">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td16">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td40">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td10">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td11">
+								<p class="p3 ft8"> </p>
+							</td>
+							<td class="tr7 td12">
+								<p class="p3 ft8"> </p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p class="p20 ft12">HOMEOWNERS CHOICE MANAGERS 5300 W CYPRESS ST STE 100 TAMPA, FL 33607</p>
+				<table class="t1">
+					<tbody>
+						<tr>
+							<td class="tr0 td46">
+								<p class="p2 ft1">Phone:</p>
+							</td>
+							<td class="tr0 td47">
+								<p class="p21 ft15">(888) 210-5235</p>
+							</td>
+							<td class="tr0 td48">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td49">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td50">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td51">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td52">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr0 td53">
+								<p class="p3 ft2"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr18 td54">
+								<p class="p3 ft17"> </p>
+							</td>
+							<td colspan="2" class="tr18 td55">
+								<p class="p3 ft17"> </p>
+							</td>
+							<td colspan="2" class="tr18 td56">
+								<p class="p3 ft17"> </p>
+							</td>
+							<td colspan="2" class="tr18 td57">
+								<p class="p3 ft17"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr13 td58">
+								<p class="p22 ft1">Payment Plan Options</p>
+							</td>
+							<td colspan="2" class="tr13 td59">
+								<p class="p23 ft1">Annual – 100%</p>
+							</td>
+							<td colspan="2" class="tr13 td60">
+								<p class="p24 ft1">Semi – 60% / 40%</p>
+							</td>
+							<td colspan="2" class="tr13 td61">
+								<p class="p4 ft1">Quarterly – 40% / 20% / 20% / 20%</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr11 td54">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td62">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td63">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td64">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td65">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td66">
+								<p class="p3 ft13"> </p>
+							</td>
+							<td class="tr11 td67">
+								<p class="p3 ft13"> </p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr13 td68">
+								<p class="p25 ft7">Down Payment</p>
+							</td>
+							<td class="tr13 td48">
+								<p class="p15 ft7">12/18/2014</p>
+							</td>
+							<td class="tr13 td69">
+								<p class="p26 ft7">$3,096</p>
+							</td>
+							<td class="tr13 td50">
+								<p class="p15 ft7">12/18/2014</p>
+							</td>
+							<td class="tr13 td70">
+								<p class="p27 ft7">$1,881</p>
+							</td>
+							<td class="tr13 td52">
+								<p class="p15 ft7">12/18/2014</p>
+							</td>
+							<td class="tr13 td53">
+								<p class="p28 ft7">$1,268</p>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" class="tr19 td68">
+								<p class="p25 ft7">2nd Installment</p>
+							</td>
+							<td class="tr19 td48">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td69">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td50">
+								<p class="p15 ft7">06/16/2015</p>
+							</td>
+							<td class="tr19 td70">
+								<p class="p27 ft7">$1,231</p>
+							</td>
+							<td class="tr19 td52">
+								<p class="p15 ft7">03/18/2015</p>
+							</td>
+							<td class="tr19 td53">
+								<p class="p28 ft7">$617</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr19 td46">
+								<p class="p25 ft7">3rd Installment</p>
+							</td>
+							<td class="tr19 td71">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td48">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td69">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td50">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td70">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td52">
+								<p class="p15 ft7">06/16/2015</p>
+							</td>
+							<td class="tr19 td53">
+								<p class="p28 ft7">$617</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr19 td46">
+								<p class="p25 ft7">4th Installment</p>
+							</td>
+							<td class="tr19 td71">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td48">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td69">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td50">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td70">
+								<p class="p3 ft2"> </p>
+							</td>
+							<td class="tr19 td52">
+								<p class="p15 ft7">09/14/2015</p>
+							</td>
+							<td class="tr19 td53">
+								<p class="p28 ft7">$617</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="tr18 td72">
+								<p class="p3 ft17"> </p>
+							</td>
+							<td class="tr18 td73">
+								<p class="p3 ft17"> </p>
+							</td>
+							<td class="tr18 td62">
+								<p class="p3 ft17"> </p>
+							</td>
+							<td class="tr18 td74">
+								<p class="p3 ft17"> </p>
+							</td>
+							<td class="tr18 td64">
+								<p class="p3 ft17"> </p>
+							</td>
+							<td class="tr18 td75">
+								<p class="p3 ft17"> </p>
+							</td>
+							<td class="tr18 td66">
+								<p class="p3 ft17"> </p>
+							</td>
+							<td class="tr18 td76">
+								<p class="p3 ft17"> </p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p class="p29 ft7">The Semi and Quarterly payment plans are assessed a $10 payment plan fee, as well as $3 for each installment.</p>
+				<p class="p30 ft12">This is a summary of coverage options based on information obtained at this time. This summary is provided for informational purposes only and is not an offer of coverage, nor does it constitute coverage is in place. Please be advised that any future application for coverage based on this information is subject to underwriting and eligibility guidelines.</p>
+			</div>
+			<div id="id_2">
+				<table class="t2">
+					<tbody>
+						<tr>
+							<td class="tr12 td77">
+								<p class="p3 ft1">Tuesday, December 23, 2014 1:06:54 AM</p>
+							</td>
+							<td class="tr12 td78">
+								<p class="p3 ft14">HCPC Quote</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</body>
+</html>
+
+
