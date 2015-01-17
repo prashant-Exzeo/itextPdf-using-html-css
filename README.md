@@ -1,6 +1,6 @@
 # itextPdf-using-html-css
-#Note it is a maven project, the object of this poc is to generate a pdf with tablular form. It is hard to generate pdf with advance customisation, So in order to achieve this first i have created a html file with some inline css & then generate the pdf from that generated html.
 
+It is a maven project, the objective of this poc is to generate a pdf with tablular form. It is hard to generate pdf with advance customisation, So in order to achieve this first i have created a html file with some inline css & then generate the pdf from that generated html.
 Following dependencies using while writing code
 	<dependency>
 		<groupId>com.itextpdf</groupId>
