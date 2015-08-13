@@ -175,7 +175,7 @@
 			<div id="dimg1"></div>
 			<div class="dclr"></div>
 			<div id="id_1">
-				<p class="p0 ft0">Homeowners Choice Property &amp; Casualty Insurance Company</p>
+				<p class="p0 ft0">Company</p>
 				<p class="p1 ft0">Quote</p>
 				<table style="font-family:verdana;">
 					<tbody>
@@ -1246,7 +1246,7 @@
 						</tr>
 					</tbody>
 				</table>
-				<p class="p20 ft12">HOMEOWNERS CHOICE MANAGERS 5300 W CYPRESS ST STE 100 TAMPA, FL 33607</p>
+				<p class="p20 ft12">5300 W CYPRESS ST STE 100 TAMPA, FL 33607</p>
 				<table class="t1">
 					<tbody>
 						<tr>
@@ -1463,7 +1463,7 @@
 								<p class="p3 ft1">Tuesday, December 23, 2014 1:06:54 AM</p>
 							</td>
 							<td class="tr12 td78">
-								<p class="p3 ft14">HCPC Quote</p>
+								<p class="p3 ft14">Quote</p>
 							</td>
 						</tr>
 					</tbody>
